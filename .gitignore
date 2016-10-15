@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# S-Record and list files
+*.S68
+*.L68
+
 # =========================
 # Operating System Files
 # =========================
